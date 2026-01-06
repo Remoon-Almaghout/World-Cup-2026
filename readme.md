@@ -2,7 +2,7 @@
 
 <img width="1898" height="494" alt="1" src="https://github.com/user-attachments/assets/19d884a0-86bd-4390-9441-4a3b317cddf0" />
 
-**This project contains the complete source code for building a World Cup 2022 website using:
+**This project contains the complete source code for building a World Cup 2026 website using:
 HTML – CSS – JavaScript – Bootstrap.**
 
 ## Website Content
